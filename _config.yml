@@ -1,9 +1,8 @@
 ﻿### Site Settings ###
 title               : Hoang Nguyen Portfolio
 description         : >-                               # >- means to ignore newlines until "url:"
-                      I turn coffee into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I am Nguyen Huynh Huy Hoang, a developer with 1 years of experience in C# technologies and
+                      2 years of experience in Front-end development. Click About me on navigation to read full my CV.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -12,7 +11,7 @@ repository          : hoangnhh140697/hoangnguyenit.github.io    # repository met
 ### Author Info ###
 author:
   name              : Hoàng Nguyễn
-  image             : https://bit.ly/2KCvgVJ
+  image             : https://bit.ly/2L4bCzK
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
