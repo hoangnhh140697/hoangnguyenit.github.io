@@ -2,10 +2,14 @@
   percentage: 90
   color: danger
 
-- name: Go
+- name: C-Sharp
   percentage: 80
   color:
 
-- name: Python
+- name: Java
   percentage: 70
-  color: dark
+  color: warning
+
+- name: UI/UX
+  percentage: 60
+  color: purple

@@ -1,17 +1,14 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, HIU
+  from: 2015
+  to: 2020
+  description: - Good students with average scores> 7.0 in 8 semesters.
 
-- title: Software Engineer, Google, UK
+- title: Software Engineer, Vi Doanh Co., LTD
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: 2020
+  description: Study and work at logistics software development company
+
+- title: Software Engineer, Satina Software Co.
+  from: 2016
+  to: 2020
+  description: Study and work at logistics software development company

@@ -1,8 +1,8 @@
 ﻿### Site Settings ###
-title               : Hoang Nguyen Portfolio
+title               : Hoang Nguyen - Developer
 description         : >-                               # >- means to ignore newlines until "url:"
                       I am Nguyen Huynh Huy Hoang, a developer with 1 years of experience in C# technologies and
-                      2 years of experience in Front-end development. Click About me on navigation to read full my CV.
+                      2 years of experience in Front-end development.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -10,7 +10,7 @@ repository          : hoangnhh140697/hoangnguyenit.github.io    # repository met
 
 ### Author Info ###
 author:
-  name              : Hoàng Nguyễn
+  name              : Nguyen Huynh Huy Hoang
   image             : https://bit.ly/2L3Pl50
   behance           : your_username
 # dribbble          : your_username
